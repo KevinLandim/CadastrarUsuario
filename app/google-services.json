@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758213418673",
+    "project_id": "cadastrousuarios-a52e8",
+    "storage_bucket": "cadastrousuarios-a52e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758213418673:android:4d653d7ca73c163be38c90",
+        "android_client_info": {
+          "package_name": "br.edu.puc.cadastrodeusuarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758213418673-d8o6ccumgm7gu1u5lt8ecovmp59r5g4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQB_YdX1IuUACcWVVX-_QnP1blFSmV-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758213418673-d8o6ccumgm7gu1u5lt8ecovmp59r5g4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
